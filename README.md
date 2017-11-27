@@ -7,7 +7,7 @@ _Run the following commands in Terminal:_
 
 1. `$ git clone` [this repository](https://github.com/codemargaret/hello-world)
 2. `$ cd hello-world`
-3. `$ open index.html`
+3. `$ open hello-world.html`
 
 _Open in your preferred text editor for a closer look at the code._
 
